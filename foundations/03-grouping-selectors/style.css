@@ -1,2 +1,5 @@
-.button-one {color: white; background-color: black;}
+.button-one {color: white; 
+            background-color: black;
+            font-weight: 700;}
 .button-two {background-color: yellow;}
+.button-one, .button-two {font-size: 28px;}
