@@ -10,7 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin: 32px;
+  margin-bottom: 32px;
   display: flex;
   justify-content: center;
 }
@@ -29,20 +29,15 @@ img {
 }
 
 .plant {
-  margin: 32px;
-  padding: 0;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 52px;
 }
 
+.picture {
+  max-width: 200px;
+}
+
 .texts {
-  margin: 32px;
-  padding: 32px;
-  border: 32px;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  gap: 52px;
-  flex-wrap: wrap;
+  width: 200px;
 }
